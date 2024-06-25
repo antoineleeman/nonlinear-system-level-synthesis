@@ -1,14 +1,14 @@
 # Robust Nonlinear Optimal Control via System Level Synthesis.
 This repository contains the MATLAB code that accompanies the research paper:
 > Leeman AP., Köhler J., Zanelli A., Bennani S., Zeilinger MN. “Robust Nonlinear Optimal Control via System Level Synthesis” 
-> Arxiv preprint: arXiv:2301.04943
+> IEEE Transactions on Automatic Control (forthcoming)
 
 ![Project Image](fig1.png)
 
-The paper is under revision and is freely available on [arXiv](https://arxiv.org/abs/2301.04943).
+The paper will appear in **IEEE Transactions on Automatic Control** and is freely available on [arXiv](https://arxiv.org/abs/2301.04943).
 
 ## Prerequisites
-- MATLAB (tested with version R2023b) on Macbook Pro (M1 Processor)
+- MATLAB (tested with version R2023b on Macbook Pro (M1 Processor))
 - CasADi (tested with casadi-3.6.4-osx_arm64-matlab2018b)
 
 ## Installation
@@ -36,8 +36,8 @@ If you use this code in your research, please cite our paper:
   ```
 @article{leeman2023robust,
   title={Robust nonlinear optimal control via system level synthesis},
-  author={Leeman, Antoine P and K{\"o}hler, Johannes and Zanelli, Andrea and Bennani, Samir and Zeilinger, Melanie N},
-  journal={arXiv preprint arXiv:2301.04943},
+  author={Leeman, Antoine P. and K{\"o}hler, Johannes and Zanelli, Andrea and Bennani, Samir and Zeilinger, Melanie N.},
+  journal={IEEE Transactions on Automatic Control (forthcoming)},
   year={2023}
 }
 
