@@ -37,7 +37,7 @@ If you use this code in your research, please cite our paper:
 @article{leeman2023robust,
   title={Robust nonlinear optimal control via system level synthesis},
   author={Leeman, Antoine P. and K{\"o}hler, Johannes and Zanelli, Andrea and Bennani, Samir and Zeilinger, Melanie N.},
-  journal={IEEE Transactions on Automatic Control (forthcoming)},
+  journal={arXiv preprint arXiv:2301.04943},
   year={2023}
 }
 
