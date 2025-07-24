@@ -8,7 +8,7 @@ This repository contains the MATLAB code that accompanies the research paper:
 The paper will appear in **IEEE Transactions on Automatic Control** and is freely available on [arXiv](https://arxiv.org/abs/2301.04943).
 
 ## Prerequisites
-- MATLAB (tested with version R2023b on Macbook Pro (M1 Processor))
+- MATLAB (tested with version R2023b on Macbook Pro (M1 Processor)
 - CasADi (tested with casadi-3.6.4-osx_arm64-matlab2018b)
 
 ## Installation
@@ -34,12 +34,15 @@ This project is licensed under the MIT License.
 
 If you use this code in your research, please cite our paper:
   ```
-@article{leeman2024_nonlinearSLS,
-  title={Robust nonlinear optimal control via system level synthesis},
-  author={Leeman, Antoine P. and K{\"o}hler, Johannes and Zanelli, Andrea and Bennani, Samir and Zeilinger, Melanie N.},
-  journal={IEEE Transactions on Automatic Control (forthcoming)},
-  year={2024}
-}
+@ARTICLE{leeman2025,
+  author={Leeman, Antoine P. and Köhler, Johannes and Zanelli, Andrea and Bennani, Samir and Zeilinger, Melanie N.},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={Robust Nonlinear Optimal Control via System Level Synthesis}, 
+  year={2025},
+  volume={70},
+  number={7},
+  pages={4780-4787},
+  doi={10.1109/TAC.2025.3552482}}
 
   ```
   
